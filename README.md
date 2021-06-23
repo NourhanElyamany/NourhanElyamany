@@ -25,15 +25,6 @@
 [<img align="left" alt="python" width="100px" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />]
 [<img align="left" alt="python" width="100px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />]
   
-
-  
-  
-  
-  
-  
-  
-  
-  
 [twitter]: https://twitter.com/NurhanElyamany
 [linkedin]: https://www.linkedin.com/in/eng-nourhan/
 [instagram]: https://www.instagram.com/nourhanmohh/
