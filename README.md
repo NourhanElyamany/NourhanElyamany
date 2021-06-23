@@ -18,12 +18,20 @@
 <br />
   
 ## Technologies:
+  
+<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/64/000000/python.png"/>
+  
+<img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
 
-[<img align="left" alt="python" width="90px" height="35" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />][<img align="left" alt="java" width="90px" height="35" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />]
-[<img align="left" alt="c#" width="90px" height="35" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />]
-[<img align="left" alt="qt" width="90px" height="35" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />]
-[<img align="left" alt="c++" width="90px" height="35" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />]
-[<img align="left" alt="ios" width="90px" height="35" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />] 
+<img align="left" alt="Qt" width="26px" src="https://www.claysol.com/public/images/qt.png" />
+
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
+<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
+<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="VScode" width="26px" src="https://user-images.githubusercontent.com/10379994/31985754-c56b8dba-b998-11e7-9705-a7f984433049.png" />
+
+
   
   
 [twitter]: https://twitter.com/NurhanElyamany
