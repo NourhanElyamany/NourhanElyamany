@@ -1,4 +1,4 @@
-<h1 align="center">_Hi there, Nourhan with you_ <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> <h1/>                             
+<h1 align="center" style="font-style: italic;"> Hi there, Nourhan with you <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> <h1/>                             
 <p align="left"> 
 <img align="left"src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="160px"/> 
 </p>
