@@ -1,11 +1,14 @@
 <h1 align="center">Here you are!<img src="https://media.giphy.com/media/4PXQedYt926NXN2LT2/giphy.gif" width="60px"</h1>
 
 
-## Artist passionate about software!
+  
+
+  
+## Know About me
 - 🏠 Living in Egypt
 - :inbox_tray: Reachable at nourhanelyamany@gmail.com
 - 💻 Currently working as a full-stack developer
-- 🔥 Fun fact: "It works on my machine"
+- 🔥 Fun fact: code only works on my machine.
 
 ## Connect with me through:
   
