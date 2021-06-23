@@ -12,7 +12,7 @@
 - 💻 Currently working as a full-stack developer
 - 🔥 Fun fact: code only works on my machine.
 <br/>
-<br/>
+  
 ## Connect with me through:
   
   
