@@ -1,4 +1,4 @@
-<h1 align="center">HERE YOU ARE!<img src=<iframe src="https://giphy.com/embed/CwTvSiWflgCGKgz5eb" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/git-github-janesu927-CwTvSiWflgCGKgz5eb">via GIPHY</a></p>></h1>
+<h1 align="center">HERE YOU ARE!<img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25px"</h1>
 
 
 <!--
