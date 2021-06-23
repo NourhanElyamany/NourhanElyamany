@@ -10,12 +10,8 @@
 - 🔥 Fun fact: Stop looking at me, I will draw you !
 
 ### Connect with me:
-<p align="left"> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eng-nourhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/eng-nourhan?trk=profile-badge">Nourhan Elyamany</a></div>
-              
-              </p>
 
-[<img align="left" alt="karimkohel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="karimkohel | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Nurhanelyamany | Twitter" width="22px" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="karimkohel | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="karimkohel | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
