@@ -18,16 +18,16 @@
 <br />
   
 ## Technologies:
-<img align="left" alt="python" width="33px" src="https://img.icons8.com/color/64/000000/python.png"/>
-<img align="left" alt="java" width="33px"src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="C" width="33px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
-<img align="left" alt="C++" width="33px"src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="C#" width="33px"src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  
-<img align="left" alt="terminal"src="https://img.icons8.com/ios-glyphs/30/000000/program.png"/>
-<img align="left" alt="Qt" width="33px" src="https://www.claysol.com/public/images/qt.png" />
-<img align="left" alt="github" width="33px"src="https://img.icons8.com/fluent/50/000000/github.png"/>
-<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
-<img align="left" alt="vs code" width="33px"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="python" width="33px" height="25" src="https://img.icons8.com/color/64/000000/python.png"/>
+<img align="left" alt="java" width="33px" height="25"src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="C" width="33px" height="25" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+<img align="left" alt="C++" width="33px" height="25" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="C#" width="33px" height="25"src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  
+<img align="left" alt="terminal" height="25"src="https://img.icons8.com/ios-glyphs/30/000000/program.png"/>
+<img align="left" alt="Qt" height="25" width="33px" src="https://www.claysol.com/public/images/qt.png" />
+<img align="left" alt="github" height="25" width="33px"src="https://img.icons8.com/fluent/50/000000/github.png"/>
+<img align="left" alt="Git"height="25"  width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
+<img align="left" alt="vs code" height="25" width="33px"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 
 
 
