@@ -1,12 +1,9 @@
 <h1 align="center">Hi there,Nourhan with you<h1/>
                                                   
-                                                  
-<img align="center" src="https://media.giphy.com/media/4PXQedYt926NXN2LT2/giphy.gif" width="130px"/>                                               
-
-                                                  
-
-<br/>
-<br/>
+<p align="center">                                                
+<img align="center"src="https://media.giphy.com/media/4PXQedYt926NXN2LT2/giphy.gif" width="130px"/>                                               
+</p>
+                                                 
 <br/>
 <br/>
   
