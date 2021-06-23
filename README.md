@@ -4,7 +4,7 @@
   
 
   
-## Know About me
+## Know about me:
 - 🏠 Living in Egypt
 - :inbox_tray: Reachable at nourhanelyamany@gmail.com
 - 💻 Currently working as a full-stack developer
