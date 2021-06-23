@@ -1,8 +1,5 @@
 <h1 align="center">Hi there, Nourhan with you:wave:<h1/>
                                                   
-<p align="center">                                                
-<img align="center"src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="130px"/>                                               
-</p>
                                         
 <br/>
 <p align="left"> 
