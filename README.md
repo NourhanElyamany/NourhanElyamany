@@ -18,18 +18,19 @@
 <br />
   
 ## Technologies:
-  
-<img align="left" alt="C" width="26px" src="https://img.icons8.com/color/64/000000/python.png"/>
-  
-<img align="left" alt="C" width="26px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+<img align="left" alt="python" width="33px" src="https://img.icons8.com/color/64/000000/python.png"/>
+<img align="left" alt="java" width="33px"src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="C" width="33px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+<img align="left" alt="C++" width="33px"src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="C#" width="33px"src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  <img src="https://img.icons8.com/ios-glyphs/30/000000/program.png"/>
+<img align="left" alt="Qt" width="33px" src="https://www.claysol.com/public/images/qt.png" />
+<img align="left" alt="github" width="33px"src="https://img.icons8.com/fluent/50/000000/github.png"/>
+<img align="left" alt="Git" width="33px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> 
+<img align="left" alt="vs code" width="33px"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 
-<img align="left" alt="Qt" width="26px" src="https://www.claysol.com/public/images/qt.png" />
 
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="Terminal" width="33px" src="https://img.icons8.com/ios-glyphs/24/000000/program.png"/>/>
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> 
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="VScode" width="26px" src="https://user-images.githubusercontent.com/10379994/31985754-c56b8dba-b998-11e7-9705-a7f984433049.png" />
 
 
   
