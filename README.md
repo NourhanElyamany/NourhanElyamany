@@ -3,8 +3,7 @@
 <p align="center">                                                
 <img align="center"src="https://media.giphy.com/media/4PXQedYt926NXN2LT2/giphy.gif" width="130px"/>                                               
 </p>
-                                                 
-<br/>
+                                        
 <br/>
   
 ## Know about me:
