@@ -9,7 +9,7 @@
 - 🏳 AI inthusiast
 - 🔥 Fun fact: Stop looking at me, I will draw you !
 
-  
+## Connect with me through:
   
   
 [<img align="left" alt="facebook" width="85px" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
