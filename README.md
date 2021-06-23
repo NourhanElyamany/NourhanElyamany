@@ -10,7 +10,8 @@
 - 🔥 Fun fact: Stop looking at me, I will draw you !
 
 ### Connect with me:
-<p align="left"> <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script><div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eng-nourhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/eng-nourhan?trk=profile-badge">Nourhan Elyamany</a></div>
+<p align="left"> <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="eng-nourhan" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://eg.linkedin.com/in/eng-nourhan?trk=profile-badge">Nourhan Elyamany</a></div>
+              
               </p>
 
 [<img align="left" alt="karimkohel.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
