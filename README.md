@@ -1,4 +1,4 @@
-<h1 align="center">HERE YOU ARE!<img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="25px"</h1>
+<h1 align="center">HERE YOU ARE!<img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="30px"</h1>
 
 
 <!--
