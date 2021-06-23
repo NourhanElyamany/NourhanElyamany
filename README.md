@@ -18,18 +18,18 @@
 <br />
   
 ## Technologies:
-<img align="left" alt="python" width="38" height="40" src="https://img.icons8.com/color/64/000000/python.png"/>
-<img align="left" alt="java" width="38" height="40"src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="C" width="38" height="40" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
-<img align="left" alt="C++" width="38" height="40" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="C#" width="38" height="40"src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  
-<img align="left" alt="terminal" width="38"height="40"src="https://img.icons8.com/ios-glyphs/30/000000/program.png"/>
+<img align="left" alt="python" width="48"  src="https://img.icons8.com/color/64/000000/python.png"/>
+<img align="left" alt="java" width="48" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
+<img align="left" alt="C" width="48"  src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
+<img align="left" alt="C++" width="48" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+<img align="left" alt="C#" width="48"src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  
+<img align="left" alt="terminal" width="48"src="https://img.icons8.com/ios-glyphs/30/000000/program.png"/>
   
-<img align="left" alt="Qt" height="40" width="38" src="https://www.claysol.com/public/images/qt.png" />
+<img align="left" alt="Qt" width="48" src="https://www.claysol.com/public/images/qt.png" />
 <img align ="left" alt="intellj" width="48"  src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img align="left" alt="github" height="40" width="38"src="https://img.icons8.com/fluent/50/000000/github.png"/>
-<img align="left" alt="Git"height="40"  width="48" src="https://img.icons8.com/color/48/000000/git.png"/>" 
-<img align="left" alt="vs code" height="40" width="38"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
+<img align="left" alt="github"  width="48"src="https://img.icons8.com/fluent/50/000000/github.png"/>
+<img align="left" alt="Git"  width="48" src="https://img.icons8.com/color/48/000000/git.png"/>
+<img align="left" alt="vs code" height="48" width="38"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 
 
 
