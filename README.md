@@ -18,12 +18,11 @@
 <br />
 ## Technologies:
 
-[<img align="left" alt="python" width="100px" height="35" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]
-[<img align="left" alt="c++" width="100px" height="35" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />]
-[<img align="left" alt="c#" width="100px" height="35" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />]
-[<img align="left" alt="java" width="100px" height="35" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />]
-[<img align="left" alt="qt" width="100px" height="35" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />]
-[<img align="left" alt="ios" width="100px" height="35" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />]
+[<img align="left" alt="python" width="80px" height="30" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />][<img align="left" alt="java" width="80px" height="30" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />]
+[<img align="left" alt="c#" width="80px" height="30" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />]
+[<img align="left" alt="c++" width="80px" height="30" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />]
+[<img align="left" alt="qt" width="80px" height="30" src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />]
+[<img align="left" alt="ios" width="80px" height="30" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />]
   
 [twitter]: https://twitter.com/NurhanElyamany
 [linkedin]: https://www.linkedin.com/in/eng-nourhan/
