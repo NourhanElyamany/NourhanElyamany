@@ -1,11 +1,9 @@
 <h1 align="center"> Hi there, Nourhan with you <img width="30"src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" /> <h1/>                             
-<p>
-<img align="left"src="https://media.giphy.com/media/H83F4AfL798AmtKXIL/giphy.gif" width="140px"/> 
+<p align="left"> 
+<img align="left"src="https://media.giphy.com/media/JrZEc84OFlTYcRaqSx/giphy.gif" width="160px"/> 
+</p>
 <br/>
-<p/>
 
-<br/>
-<br/>
 ## Know about me:
 - 🏠 Living in Egypt
 - :inbox_tray: Reachable at nourhanelyamany@gmail.com
@@ -13,7 +11,9 @@
 - 🔥 Fun fact: code only works on my machine.
 <br/>
   
-## Connect with me through: 
+## Connect with me through:
+  
+  
 [<img align="left" alt="facebook" width="100px" height="25" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
 [<img align="left" alt="facebook" width="100px" height="25" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail]
 [<img align="left" alt="Twitter" width="100px" height="25" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
