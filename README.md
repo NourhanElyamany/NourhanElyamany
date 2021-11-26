@@ -20,27 +20,7 @@
 [<img align="left" alt="Linkedin" width="100px" height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Instagram" width="100px" height="25" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <br/>
-<br/>  
-## Technologies:
-<img align="left" alt="python" width="48"  src="https://img.icons8.com/color/48/000000/python.png"/>
-<img align="left" alt="java" width="48" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>
-<img align="left" alt="C" width="48"  src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" />
-<img align="left" alt="C++" width="48" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-<img align="left" alt="C#" width="48"src="https://img.icons8.com/color/48/000000/c-sharp-logo-2.png"/>  
-<img align="left" alt="terminal" width="48"src="https://img.icons8.com/ios-glyphs/48/000000/program.png"/>
-  
-<img align="left" alt="Qt" width="48" src="https://www.claysol.com/public/images/qt.png" />
-<img align ="left" alt="intellj" width="48"  src="https://img.icons8.com/color/48/000000/intellij-idea.png"/>
-<img align="left" alt="github"  width="48"src="https://img.icons8.com/fluent/48/000000/github.png"/>
-<img align="left" alt="Git"  width="48" src="https://img.icons8.com/color/48/000000/git.png"/>
-<img align="left" alt="vs code" height="48" width="38"src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
-
-
-
-
-
-
-  
+<br/>    
   
 [twitter]: https://twitter.com/NurhanElyamany
 [linkedin]: https://www.linkedin.com/in/eng-nourhan/
