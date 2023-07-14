@@ -7,7 +7,7 @@
 ## Know about me:
 - 🏠 Living in Egypt
 - :inbox_tray: Reachable at nourhanelyamany@gmail.com
-- 💻 Currently working as a full-stack developer
+- 💻 Open to work in the security field.
 - 🔥 Fun fact: code only works on my machine.
 <br/>
   
